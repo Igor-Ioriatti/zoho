@@ -1,6 +1,6 @@
 {
-  "name": "zoho",
-  "version": "0.3.1",
+  "name": "zoho-hca",
+  "version": "1.0.0",
   "description": "Node.js client library for Zoho",
   "main": "./lib/index.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/4yopping/zoho"
+    "url": "https://github.com/Igor-Ioriatti/zoho"
   },
   "keywords": [
     "zoho",
@@ -20,9 +20,9 @@
   "author": "Marco Godínez <markotom@4yopping.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/4yopping/zoho/issues"
+    "url": "https://github.com/Igor-Ioriatti/zoho/issues"
   },
-  "homepage": "https://github.com/4yopping/zoho",
+  "homepage": "https://github.com/Igor-Ioriatti/zoho",
   "devDependencies": {
     "faker": "^2.1.2",
     "gulp": "^3.8.11",
