@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/.gitignore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/.travis.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulpfile.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/crm.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/index.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lib/projects.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/support.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/config.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/invoice.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/support.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/zoho.js" charset="UTF-8" />
   </component>
 </project>
