@@ -1,6 +1,6 @@
 {
   "name": "zoho-hca",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Node.js client library for Zoho (not maintained)",
   "main": "./lib/index.js",
   "directories": {
